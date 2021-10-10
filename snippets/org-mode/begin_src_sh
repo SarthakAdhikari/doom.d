@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: begin_src_sh
+# key: <sh
+# --
+#+begin_src sh :results output :exports both
+  $0
+#+end_src
